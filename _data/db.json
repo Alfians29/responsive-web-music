@@ -1,0 +1,447 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "date": {
+        "day": "7",
+        "month": "JAN"
+      },
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "Rogers Centre"
+      },
+      "priceRange": "50-300$"
+    },
+    {
+      "id": 2,
+      "date": {
+        "day": "14",
+        "month": "FEB"
+      },
+      "location": {
+        "city": "Los Angeles",
+        "country": "United States",
+        "address": "Hollywood Bowl"
+      },
+      "priceRange": "40-210$"
+    },
+    {
+      "id": 3,
+      "date": {
+        "day": "21",
+        "month": "MAR"
+      },
+      "location": {
+        "city": "London",
+        "country": "United Kingdom",
+        "address": "Royal Albert Hall"
+      },
+      "priceRange": "60-280$"
+    },
+    {
+      "id": 4,
+      "date": {
+        "day": "3",
+        "month": "APR"
+      },
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "address": "Olympia"
+      },
+      "priceRange": "40-300$"
+    },
+    {
+      "id": 5,
+      "date": {
+        "day": "12",
+        "month": "MAY"
+      },
+      "location": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "address": "Tokyo Dome"
+      },
+      "priceRange": "30-190$"
+    },
+    {
+      "id": 6,
+      "date": {
+        "day": "9",
+        "month": "JUN"
+      },
+      "location": {
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "address": "Istora Senayan"
+      },
+      "priceRange": "40-250$"
+    },
+    {
+      "id": 7,
+      "date": {
+        "day": "15",
+        "month": "JUL"
+      },
+      "location": {
+        "city": "Sydney",
+        "country": "Australia",
+        "address": "Sydney Opera House"
+      },
+      "priceRange": "60-290$"
+    },
+    {
+      "id": 8,
+      "date": {
+        "day": "5",
+        "month": "AUG"
+      },
+      "location": {
+        "city": "Auckland",
+        "country": "New Zealand",
+        "address": "Spark Arena"
+      },
+      "priceRange": "45-275$"
+    },
+    {
+      "id": 9,
+      "date": {
+        "day": "17",
+        "month": "SEP"
+      },
+      "location": {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "address": "Entertainment World"
+      },
+      "priceRange": "65-220$"
+    },
+    {
+      "id": 10,
+      "date": {
+        "day": "20",
+        "month": "OCT"
+      },
+      "location": {
+        "city": "Cairo",
+        "country": "Egypt",
+        "address": "Cairo Convention Centre"
+      },
+      "priceRange": "55-245$"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "img": "/assets/albums/cover/cover-1.png",
+      "name": "Celestial Crescendo",
+      "tracks": [
+        {
+          "name": "Ethereal Reverie",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Lunar Whispers",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Neon Dreamscape",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Crimson Cascade",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Whispers of the Abyss",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Velvet Vortex",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Stellar Serenade",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Enchanted Echoes",
+          "src": "/assets/serenade.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "/assets/albums/cover/cover-2.png",
+      "name": "Ethereal Echoes",
+      "tracks": [
+        {
+          "name": "Midnight Mirage",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Sapphire Serenade",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Twilight Tango",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Mystic Melodies",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Celestial Cascade",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Sapphire Dreamscape",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Whispers in the Wind",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Astral Ascension",
+          "src": "/assets/serenade.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "/assets/albums/cover/cover-3.png",
+      "name": "Sapphire Serenades",
+      "tracks": [
+        {
+          "name": "Echoes of Elysium",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Luminous Lullaby",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Electric Moonbeam",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Echoes of Eternity",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Golden Galaxy",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Infinite Infinity",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Serenade of Shadows",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Violet Velvet",
+          "src": "/assets/serenade.mp3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "/assets/albums/cover/cover-4.png",
+      "name": "Lunar Lullabies",
+      "tracks": [
+        {
+          "name": "Harmonic Horizons",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Opal Oasis",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Sirens of Stardust",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Twilight Trance",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Whispers of Wonder",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Azure Aurora",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Crimson Comet",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Epic Epoch",
+          "src": "/assets/serenade.mp3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "/assets/albums/cover/cover-5.png",
+      "name": "Stellar Symphonies",
+      "tracks": [
+        {
+          "name": "Labyrinth of Light",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Mystic Mirage",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Opulent Overture",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Radiant Rhapsody",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Sapphire Sonata",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Starlight Symphony",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Whispers of the Void",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Celestial Chorus",
+          "src": "/assets/serenade.mp3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "/assets/albums/cover/cover-6.png",
+      "name": "Twilight Tranquility",
+      "tracks": [
+        {
+          "name": "Dreamscape Duet",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Enchanted Elegy",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Lunar Lullaby",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Mystical Melody",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Prelude to Infinity",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Stellar Serenade",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Whispers of the Cosmos",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Astral Allegro",
+          "src": "/assets/serenade.mp3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "/assets/albums/cover/cover-7.png",
+      "name": "Harmonic Horizons",
+      "tracks": [
+        {
+          "name": "Echoes of Empyrean",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Luminous Lyric",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Nebula Nocturne",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Serenade of Shadows",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Twilight Tapestry",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Whispers of the Galaxy",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Azure Alchemy",
+          "src": "/assets/serenade.mp3"
+        },
+        {
+          "name": "Crimson Crescendo",
+          "src": "/assets/serenade.mp3"
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "date": "2023-07-28",
+      "title": "ThunderStrike Rock Concert",
+      "description": "Get ready to rock the night away! Join us for an epic rock concert featuring your favorite bands. It's going to be a night of high-energy music and unforgettable moments. Don't miss out!"
+    },
+    {
+      "id": 2,
+      "date": "2023-08-06",
+      "title": "Soulful Serenade Jazz Concert",
+      "description": "Indulge in a night of smooth jazz and soulful tunes. Join us for a captivating concert that promises to sweep you off your feet. We can't wait to share this musical journey with you!"
+    },
+    {
+      "id": 3,
+      "date": "2023-09-13",
+      "title": "Neon Beats: EDM Extravaganza",
+      "description": "Get ready to dance the night away! Join us for an electrifying EDM concert featuring top DJs and non-stop beats. It's going to be a night of pure energy and unforgettable music. Don't miss out!"
+    },
+    {
+      "id": 4,
+      "date": "2023-10-02",
+      "title": "Harmony Unplugged Acoustic Showcase",
+      "description": "Escape the hustle and bustle and join us for a relaxing evening of acoustic music. We promise soul-soothing melodies and a cozy atmosphere. See you there!"
+    },
+    {
+      "id": 5,
+      "date": "2023-11-22",
+      "title": "Elegance in Notes Classical Concert",
+      "description": "Experience the timeless beauty of classical music in a captivating concert. Join us for an evening of enchanting melodies that will transport you to another era. We look forward to sharing this musical journey with you!"
+    },
+    {
+      "id": 6,
+      "date": "2023-12-30",
+      "title": "Urban Groove Hip-Hop Showcase",
+      "description": "Get ready to groove to the beats! Join us for an unforgettable night of hip-hop music, featuring talented artists and high-energy performances. It's going to be a night of pure rhythm and good vibes. See you there!"
+    }
+  ]
+}
